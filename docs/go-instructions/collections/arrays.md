@@ -19,6 +19,7 @@
 - [go-typ/typ](https://github.com/go-typ/typ) - Generic types and functions that are missing from Go, including sets, linked lists, trees, etc.
 - [golang-design/go2generics](https://github.com/golang-design/go2generics) - A chunk of experiments and demos about Go 2 
 - [samber/lo](https://github.com/samber/lo) - A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [samber/ro](https://github.com/samber/ro) - Reactive Programming paradigm for Go: declarative and composable API for event-driven applications
 - [life4/genesis](https://github.com/life4/genesis) - All generic functions for Go 1.18 you ever need!
 - [xyctruth/stream](https://github.com/xyctruth/stream) - A Stream processing library based on Go 1.18+ Generics (parallel, pipeline, lazy)
 - [Soft/iter](https://github.com/Soft/iter) - iter is a generic iterator library for Go
